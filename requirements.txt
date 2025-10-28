@@ -6,3 +6,4 @@ plotly
 nbformat 
 statsmodels
 # requirements for Lab 8
+jupyter-book==1.*
