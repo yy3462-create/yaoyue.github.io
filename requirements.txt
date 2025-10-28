@@ -5,3 +5,4 @@ plotly
 # NEEDED FOR PLOTLY
 nbformat 
 statsmodels
+# requirements for Lab 8
